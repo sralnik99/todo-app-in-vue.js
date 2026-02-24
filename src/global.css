@@ -1,0 +1,15 @@
+body {
+    background-color: gray;
+}
+
+.xui {
+    text-align: left;
+    position: relative;
+    left: 180px;
+    top: 22px;
+}
+
+.button1 {
+    cursor: pointer;
+    background-color: grey;
+}
